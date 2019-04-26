@@ -1,0 +1,5 @@
+Jumat, 26 April 2019
+
+misal pingin ngeshare project tapi ada file/folder yg tidak mau di share misalkan secret folder dan file rahasia.txt
+
+caranya bikin file .gitignore dan sertakan nama file/folder yg tidak mau disertakan di dalam file tsb
