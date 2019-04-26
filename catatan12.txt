@@ -3,3 +3,9 @@ Jumat, 26 April 2019
 misal pingin ngeshare project tapi ada file/folder yg tidak mau di share misalkan secret folder dan file rahasia.txt
 
 caranya bikin file .gitignore dan sertakan nama file/folder yg tidak mau disertakan di dalam file tsb
+
+
+git remote add origin https://github.com/RiantoWibisono/tes-github-2.git        -->>> origin merupakan nama alias yg bs diganti
+
+
+cara nulis nama di git ignore kalau rootnya selevel cuma pakai / di awal.
