@@ -9,3 +9,7 @@ git remote add origin https://github.com/RiantoWibisono/tes-github-2.git        
 
 
 cara nulis nama di git ignore kalau rootnya selevel cuma pakai / di awal.
+
+
+README (markdown md)
+heading pakai #
